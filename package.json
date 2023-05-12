@@ -5,7 +5,7 @@
   "version": "0.2.14",
   "author": "LekoArts",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "sakhiee-resume",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
